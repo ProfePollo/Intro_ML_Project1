@@ -1,2 +1,5 @@
 # Intro_ML_Project1
-Introductory Machine learning Projects. In this project data was cleaned and divided up to be trained with this (model) to predict what type of dish is based off the recipes ingredients.  
+This repository contains small machine learning projects.
+
+## Credit Card Fraud Notebook
+A Jupyter notebook is included in `notebooks/credit_card_fraud_models.ipynb` which demonstrates training several models on the [Kaggle credit card fraud dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud). The notebook loads the CSV file, splits the data, and compares logistic regression, decision tree, and random forest classifiers.
